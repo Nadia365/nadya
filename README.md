@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> I'm [Nadia](https://www.linkedin.com/in/nadiayoussef365/) and welcome to my GitHub profile! :octocat:
 <br>
 
-<img align="right" height="150" width="250" alt="GIF" src="IMG/images.png" />
+<img align="right" height="250" width="250" alt="GIF" src="IMG/images.png" />
 
 
 </div>
