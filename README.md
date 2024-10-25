@@ -13,7 +13,8 @@
 
 **Fun facts:**
 
-👩‍🎓From telecommunication diploma to neurotech research master to implementation analyst to where my destiny and heart will lead me
+👩‍🎓From telecommunication diploma to neurotech research master to implementation analyst to where my destiny and heart will lead me ![Uploading image.png…]()
+
 
 🤔 Data is sexy when it reveals a lot of juicy info  
   
