@@ -19,4 +19,5 @@
 🤔 Data is sexy when it reveals a lot of juicy info  
   
 📈 Madly passionate about Data Engineering and Analytics, yet worried about which one to pick?
-P.S: Self-taught Data Analyst skills
+
+**P.S: Self-taught Data Analyst skills**
