@@ -20,6 +20,6 @@
   
 📈 Madly passionate about Data Engineering and Analytics, yet worried about which one to pick?
 
-**P.S: Self-taught Data Analyst** 
+**P.S: Self-taught Data Analyst and also advocate for 'Do what you love' Mantra** 
 
 ## 📚 Table of Contents
