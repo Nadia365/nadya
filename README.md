@@ -20,7 +20,7 @@
   
 📈 Madly passionate about Data Engineering and Analytics, yet worried about which one to pick?
 
-**P.S: Self-taught Data Analyst skills** 
+**P.S: Self-taught Data Analyst** 
 
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
