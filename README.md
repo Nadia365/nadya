@@ -32,7 +32,7 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [Extracting User Journey Data Using SQL Project](https://github.com/Nadia365/User-tracking) | Data analysis, Data transformation| This repo serves as the solution to build a query on user data to create customer journey stringsas a part of  Skill Track project OF 365datascienceData paltform(https://learn.365datascience.com/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
+| 💡 [Extracting User Journey Data Using SQL Project](https://github.com/Nadia365/User-tracking) | Data analysis, Data transformation| This repo serves as the solution to build a query on user data to create customer journey stringsas a part of  Skill Track project of 365datascienceData paltform (https://learn.365datascience.com/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
 | 👩🏻‍⚕️ [Baby Name Trend Analysis Case Study](https://github.com/Nadia365/Baby-Name-Trend-Analysis-Case-Study/tree/main) | Baby Name analysis | I answer business questions related to baby names data, to dig into the baby names data to produce some interesting fidnings about the baby names over namesto share in the report |  
 
 
