@@ -38,5 +38,6 @@
 
 # Python
 
-| Project Link | Area | Project Description | Libraries |     
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
  🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard]
