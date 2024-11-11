@@ -35,3 +35,8 @@
 | 💡 [Extracting User Journey Data Using SQL Project](https://github.com/Nadia365/User-tracking) | Data analysis, Data transformation| This repo serves as the solution to build a query on user data to create customer journey stringsas a part of  Skill Track project OF 365datascienceData paltform(https://learn.365datascience.com/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
 | 👩🏻‍⚕️ [Baby Name Trend Analysis Case Study](https://github.com/Nadia365/Baby-Name-Trend-Analysis-Case-Study/tree/main) | Baby Name analysis | I answer business questions related to baby names data, to dig into the baby names data to produce some interesting fidnings about the baby names over namesto share in the report |  
 
+
+# Python
+
+| Project Link | Area | Project Description | Libraries |     
+ 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard]
