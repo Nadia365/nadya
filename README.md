@@ -23,3 +23,7 @@
 **P.S: Self-taught Data Analyst and also advocate for 'Do what you love' Mantra** 
 
 ## 📚 Table of Contents
+- [Data Engineering](#data-engineering)
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
