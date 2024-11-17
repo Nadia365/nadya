@@ -40,4 +40,5 @@
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
- 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard]
+ 🦄 [CO2 Emission](https://github.com/Nadia365/temperature_data_viz) | Cleansed and transformed data of CO2 EMission from Berkely earth data website. Visualised key insights using pyplot and ploytly jupyter libraries , including plotting a simple line graph of Global Cumulative CO2 Emission over the years, creating a Bar Graph of Top 20 Countries with highest CO2 Emission in 2020, Time series of cumulative CO2 emission of top 5 countries, comparing Top 5 countries for 2020,Top 10 cumulative CO2 emission per person in 2020
+,Creating Plotly Choropleth Map with Years animated on X-axis and CO2 Emission on Y-axis to show world CO2 emission through years on world map 
