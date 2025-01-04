@@ -34,7 +34,7 @@
 |---|---|---|
 | 💡 [Extracting User Journey Data Using SQL Project](https://github.com/Nadia365/User-tracking) | Data analysis, Data transformation| This repo serves as the solution to build a query on user data to create customer journey stringsas a part of  Skill Track project of 365datascienceData paltform (https://learn.365datascience.com/). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
 | 👩🏻‍⚕️ [Baby Name Trend Analysis Case Study](https://github.com/Nadia365/Baby-Name-Trend-Analysis-Case-Study/tree/main) | Baby Name analysis | I answer business questions related to baby names data, to dig into the baby names data to produce some interesting fidnings about the baby names over namesto share in the report |  
-| 🎁[A free 24-day SQL challenge](https://github.com/Nadia365/Baby-Name-Trend-Analysis-Case-Study/tree/main) | 𝗦𝗤𝗟 𝗔𝗱𝘃𝗲𝗻𝘁 𝗖𝗮𝗹𝗲𝗻𝗱𝗮𝗿 | I answer  questions, the questions range from beginner to advanced, with 𝘶𝘯𝘭𝘪𝘮𝘪𝘵𝘦𝘥 attempts to complete each one. |  
+| 🎁[A free 24-day SQL challenge](https://github.com/Nadia365/-SQL-Advent-Calendar/blob/main/README.md) | 𝗦𝗤𝗟 𝗔𝗱𝘃𝗲𝗻𝘁 𝗖𝗮𝗹𝗲𝗻𝗱𝗮𝗿 | I answer  questions, the questions range from beginner to advanced, with 𝘶𝘯𝘭𝘪𝘮𝘪𝘵𝘦𝘥 attempts to complete each one. |  
 
 
 # Python
