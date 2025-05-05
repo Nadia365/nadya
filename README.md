@@ -28,7 +28,7 @@
 - [Python](#python)
 - [Tableau](#tableau)
 
-  # SQL
+# SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
