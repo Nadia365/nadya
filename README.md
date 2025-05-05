@@ -41,4 +41,12 @@
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-[CO2 Emission](https://github.com/Nadia365/temperature_data_viz) | Data visulaization and cleaning and transformation |Cleansed and transformed data of CO2 EMission from Berkely earth data website. Visualised key insights using pyplot and ploytly jupyter libraries , including plotting a simple line graph of Global Cumulative CO2 Emission over the years , Map with Years animated on X-axis and CO2 Emission on Y-axis to show world CO2 emission through years on world map (https://github.com/Nadia365/temperature_data_viz) | pandas/matplotlib/seaborn /numpy /plotly/math/graph_objects 
+[CO2 Emission](https://github.com/Nadia365/temperature_data_viz) | Data visulaization and cleaning and transformation |Cleansed and transformed data of CO2 EMission from Berkely earth data website. Visualised key insights using pyplot and ploytly jupyter libraries , including plotting a simple line graph of Global Cumulative CO2 Emission over the years , Map with Years animated on X-axis and CO2 Emission on Y-axis to show world CO2 emission through years on world map (https://github.com/Nadia365/temperature_data_viz) | pandas/matplotlib/seaborn /numpy /plotly/math/graph_objects  
+
+
+# Data Engineering
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+[ETL FHIR data](https://github.com/Nadia365/ETL-processing-of-FHIR-data) | ETL of FHIR data |This Python-based pipeline fetches, validates, processes, and analyzes healthcare data from a FHIR (Fast Healthcare Interoperability Resources) server, with a focus on Heart Rate Variability (HRV) observations. It authenticates with a FHIR server, retrieves resources like Patient and Observation, validates data, generates exploration reports, produces a machine learning-ready table, and creates interactive biosignal visualizations. | pandas/numpy /plotly/math/graph_objects/pyhton
+
