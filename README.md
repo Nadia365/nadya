@@ -48,5 +48,6 @@
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-[ETL FHIR data](https://github.com/Nadia365/ETL-processing-of-FHIR-data) | ETL of FHIR data |This Python-based pipeline fetches, validates, processes, and analyzes healthcare data from a FHIR (Fast Healthcare Interoperability Resources) server, with a focus on Heart Rate Variability (HRV) observations. It authenticates with a FHIR server, retrieves resources like Patient and Observation, validates data, generates exploration reports, produces a machine learning-ready table, and creates interactive biosignal visualizations. | pandas/numpy /plotly/math/graph_objects/pyhton
+[ETL FHIR data](https://github.com/Nadia365/ETL-processing-of-FHIR-data) | ETL of FHIR data |This Python-based pipeline fetches, validates, processes, and analyzes healthcare data from a FHIR (Fast Healthcare Interoperability Resources) server, with a focus on Heart Rate Variability (HRV) observations. It authenticates with a FHIR server, retrieves resources like Patient and Observation, validates data, generates exploration reports, produces a machine learning-ready table, and creates interactive biosignal visualizations. | pandas/numpy /plotly/math/graph_objects/pyhton|[ML deployment into Azure ML ](https://github.com/Nadia365/Deployment-of-ML-model-to-Azure) |ML deployment into Azure ML  | (https://github.com/Nadia365/Deployment-of-ML-model-to-Azure) | pyhton/azure ml sdk 
+
 
