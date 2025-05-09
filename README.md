@@ -35,7 +35,7 @@
 
 ## Languages and Tools  
 <div align="center">  
-<img title="Azure" alt="Azure" src="IMG/Microsoft_Azure.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Azure" alt="Azure" src="IMG/Microsoft_Azure.svg.png" width="60" height="40" style="vertical-align:down; margin:4px"/>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
