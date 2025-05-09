@@ -75,5 +75,6 @@
 
 
 # Competitions & Hackathons 
+|---|---|---|---|
 [Zindi Competition](https://github.com/Nadia365/ZindiBeginnerCompetition) | Prediction of the likelihood of the person having a bank account or not  |We are asked to predict the likelihood of the person having a bank account or not (Yes = 1, No = 0), for each unique id in the test dataset . We will train our model on 70% of the data and test our model on the final 30% of the data, across four East African countries - Kenya, Rwanda, Tanzania, and Uganda.(https://github.com/Nadia365/ZindiBeginnerCompetition)| pandas/numpy /sklearn |
 |  [McKinseyOnlineHackathon-Healthcare- ](https://github.com/Nadia365/McKinseyOnlineHackathon-Healthcare-) |Prediction of the probability of stroke happening to their patients  | The Client wants you to predict the probability of stroke happening to their patients. This will help doctors take proactive health measures for these patients." We are provided with: train dataset (will be used to train your model),test dataset (Submit predictions for the records in test dataset) and sample submission (CSV Format for making a submission at the platform)(https://github.com/Nadia365/McKinseyOnlineHackathon-Healthcare-) |pandas/numpy /sklearn
