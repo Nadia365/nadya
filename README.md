@@ -48,7 +48,7 @@
 <a target="_blank" href="https://medium.com/@nadiayoussef635/ai-analytics-with-fhir-data-e964d1399a89">
 </a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2">
 </a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3" alt="Recent Article 3"> 
