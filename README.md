@@ -42,8 +42,7 @@
 
 ## 👇 Check out my latest Medium blog
 
-<a target="_blank" href="https://medium.com/@nadiayoussef635/data-retrieval-from-fhir-server-practical-guide-f0af5eb76843">" 
-</a>
+<a target="_blank" href="https://medium.com/@nadiayoussef635/data-retrieval-from-fhir-server-practical-guide-f0af5eb76843">Data Retrieval from FHIR Server Guide</a>
 
 <a target="_blank" href="https://medium.com/@nadiayoussef635/ai-analytics-with-fhir-data-e964d1399a89">
 </a>
