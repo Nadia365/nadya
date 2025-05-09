@@ -23,10 +23,44 @@
 **P.S: Self-taught Data Analyst and also advocate for 'Do what you love' Mantra** 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Data Engineering/Analytics](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
+- [Competitions & Hackathons](#Competitions)
+
+
+  <br>
+
+<div align="center">
+
+## Languages and Tools  
+<div align="center">  
+<img title="Azure" alt="Azure" src="assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>   
+</div>
+
+## 👇 Check out my latest Medium blog
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/0" alt="Recent Article 0"> 
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/1" alt="Recent Article 1"> 
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/2" alt="Recent Article 2"> 
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/3" alt="Recent Article 3"> 
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ndleah/4" alt="Recent Article 4">
+</a>
+
+<br>
+
 
 # SQL
 
